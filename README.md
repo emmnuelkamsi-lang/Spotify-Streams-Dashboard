@@ -2,9 +2,7 @@
 
 Dashboard exploring the most-streamed Spotify tracks: how danceable and energetic they are, when they were released, and whether they are in a major or minor key.
 
-## Dashboard preview
-
-![Spotify streams dashboard](spotify-dashboard)
+## Dashboard previous
 
 ## Key numbers
 
